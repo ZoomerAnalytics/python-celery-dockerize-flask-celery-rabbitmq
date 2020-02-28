@@ -2,7 +2,7 @@
 
 This projects contains the source code examples accompanying the blog post:
 
-https://www.python-celery.com/2018/06/05/celery-django-docker/.
+https://www.distributedpython.com/2018/06/12/celery-django-docker/.
 
 
 Docker and docker-compose are highly recommended to run the example.
